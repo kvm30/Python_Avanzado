@@ -24,3 +24,5 @@ print("Vehículos:", vehículos)
 registrar_salida(vehículos, "AAA111")
 
 print("Después salida", vehículos)
+
+#esto es un comentario 
